@@ -1,0 +1,3 @@
+﻿-- Script Date: 2/21/2019 8:30 AM  - ErikEJ.SqlCeScripting version 3.5.2.80
+ALTER TABLE [Movies] ALTER COLUMN [Year] nchar(4) NOT NULL;
+GO
